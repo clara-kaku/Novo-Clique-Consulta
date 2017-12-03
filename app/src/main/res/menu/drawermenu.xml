@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/inicio" android:title="Início" android:icon="@drawable/ic_home_black_24px"/>
+    <item android:id="@+id/agendar" android:title="Agendar" android:icon="@drawable/ic_create_black_24px"/>
+    <item android:id="@+id/consMarcadas" android:title="Consultas Marcadas" android:icon="@drawable/ic_event_black_24px"/>
+    <item android:id="@+id/info" android:title="Informações" android:icon="@drawable/ic_info_black_24px"/>
+</menu>
